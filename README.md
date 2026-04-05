@@ -26,4 +26,5 @@ This is the main reason why NumPy is faster than lists. Also it is optimized to 
 NumPy is a Python library and is written partially in Python, but most of the parts that require fast computation are written in C or C++.
 
 
+Youtube link: https://youtu.be/QUT1VHiLmmI
 
